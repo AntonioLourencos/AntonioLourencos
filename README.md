@@ -1,9 +1,12 @@
-<h2 align="center">Hi, I'm Antonio Lourenço 👋</h2>
- 
-<a align="center">![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioLourencos&show_icons=true&theme=vue)</a>
+<h1 align="center">Hi, I'm Antonio Lourenço 👋</h1>
+<h3 align="center">I'm a new developer, i'm focus on Web</h3>
 
-#### Contato
+- 📫 How to reach me **antonio.oficialcontato@gmail**
 
-<a href="https://twitter.com/AntonioLourouco" target="_blank">
- <img src="https://www.flaticon.com/svg/vstatic/svg/179/179342.svg?token=exp=1614540479~hmac=be0d0cf3ec473702accf38126355db93" width="40"/>
-</a>
+![AntonioLourencos GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioLourencos&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLourencos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<a href="https://twitter.com/AntonioLourouco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
+</p>
