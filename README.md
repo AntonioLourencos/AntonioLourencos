@@ -3,7 +3,7 @@ I'm Antonio Lourenço from Brasil currently FrontEnd devoloper and learning abou
 
 <br />
 
-![AntonioLourencos](https://camo.githubusercontent.com/4d9d1edcb6d14279ebed8c78502e6f5eef79e13a23e045a076ba96fb5d43ffb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416e746f6e696f4c6f7572656e636f732673686f775f69636f6e733d74727565)
+![AntonioLourencos](https://github-readme-stats.vercel.app/api?username=antoniolourencos&show_icons=true)
 
 <br />
 
