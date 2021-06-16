@@ -1,9 +1,11 @@
 # Hi there!
-I'm Antonio Lourenço from Brasil currently FrontEnd devoloper and learning about BackEnd. My favorite language programming is JavaScript.
+I'm a Brazilian passionate about programming, I'm a full-stack developer, in the projects I develop I use Node and React. 
+
+In my free time I practice languages, like English, Spanish and Italian. Whenever I can I also like to learn new concepts, languages, frameworks, and currently I'm studying python.
 
 <br />
 
-![AntonioLourencos](https://github-readme-stats.vercel.app/api?username=antoniolourencos&show_icons=true)
+![AntonioLourencos](https://github-readme-stats.vercel.app/api?username=antoniolourencos&count_private=true&show_icons=true&custom_title=&theme=radical&include_all_commits=true)
 
 <br />
 
