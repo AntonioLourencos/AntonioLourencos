@@ -1,7 +1,7 @@
 # Hi there!
 I'm a Brazilian passionate about programming, I'm a full-stack developer, in the projects I develop I use Node and React. 
 
-In my free time I practice languages, like English, Spanish and Italian. Whenever I can I also like to learn new concepts, languages, frameworks, and currently I'm studying python.
+In my free time I practice languages, like english and spanish. Whenever I can I also like to learn new concepts, languages, frameworks, and currently I'm studying python.
 
 <br />
 
