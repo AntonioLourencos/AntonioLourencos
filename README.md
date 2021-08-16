@@ -6,13 +6,9 @@ In my free time I practice languages, like english and spanish. Whenever I can I
 <br />
 <div>
   
-  ![AntonioLourencos](https://github-readme-stats.vercel.app/api?username=antoniolourencos&count_private=true&show_icons=true&custom_title=&theme=radical&include_all_commits=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![potate](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyI_-gXCgdShSDyvtSsX9fTBhAFymrwYoO0A&usqp=CAU)
-
+  ![AntonioLourencos](https://github-readme-stats.vercel.app/api?username=antoniolourencos&count_private=true&show_icons=true&custom_title=&theme=radical&include_all_commits=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![potate](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyI_-gXCgdShSDyvtSsX9fTBhAFymrwYoO0A&usqp=CAU)
  
- </div>
-
-
-
+</div>
 <br />
 
 ## Languages and Tools
