@@ -1,8 +1,58 @@
-# Hey!
-You can call me Antonio, I am a programmer at SIP - DIGITAL and I work there as a FullStack programmer.
-I am a passionate about programming, cultural languages. I usually speak in Portuguese, Spanish and sometimes English. Currently, I can program in three languages, being: JavaScript, TypeScript and Python.
+# 👋 Hey
 
-## Touch me 
-Discord: MarcosLourenco#1329
+### I'm Antonio Lourenço, I concurrently Developer at SIP DIGITAL.
 
-Email: antonio.oficialcontato@gmail.com
+I love programming, new languages, and books. I usually speak Portuguese, Spanish, and sometimes English. When I have free time, I love to read books about suspense, fiction and other genres.
+
+<div style="display:flex; flex-wrap:wrap;">
+
+<div  style="margin-right: 40px;">
+
+## 📚 Languages Programming:
+
+- JavaScript.
+- TypeScript.
+- Python.
+- CSharp (**Learning Process**).
+
+</div>
+
+<div  style="margin-right: 40px;">
+
+## 📚 Some Frameworks:
+
+- AdonisJS
+- ExpressJS
+- ReactJS.
+  - RemixJS.
+  - NextJS.
+- ReactNative.
+  - Expo.
+- FlaskAPI
+- FastAPI
+
+</div>
+
+<div  style="margin-right: 40px;">
+
+## 📚 Tools:
+
+- Visual Studio Code
+- Visual Studio Mode
+- PostgreSQL
+- PostMan
+- Thunder Client
+
+</div>
+
+<div  style="margin-right: 40px;">
+
+## 🔊 Contact Me:
+
+- Discord: MarcosLourenco#1329
+- [Linkedin](https://www.linkedin.com/in/antoniolourencos/)
+- [Email](mailto:antonio.oficialcontato@gmail.com)
+
+</div>
+
+</div>
