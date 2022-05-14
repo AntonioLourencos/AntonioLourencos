@@ -19,7 +19,7 @@ I love programming, new languages, and books. I usually speak Portuguese, Spanis
 
 <div  style="margin-right: 40px;">
 
-## 📚 Some Frameworks:
+## 🤓 Some Frameworks:
 
 - AdonisJS
 - ExpressJS
@@ -35,7 +35,7 @@ I love programming, new languages, and books. I usually speak Portuguese, Spanis
 
 <div  style="margin-right: 40px;">
 
-## 📚 Tools:
+## 🛠 Tools:
 
 - Visual Studio Code
 - Visual Studio Mode
