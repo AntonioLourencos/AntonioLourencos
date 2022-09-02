@@ -1,6 +1,6 @@
 # 👋 Hey
 
-### I'm Antonio Lourenço, I concurrently Developer at SIP DIGITAL.
+### I'm Antonio Lourenço.
 
 I love programming, new languages, and books. I usually speak Portuguese, Spanish, and sometimes English. When I have free time, I love to read books about suspense, fiction and other genres.
 
