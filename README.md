@@ -1,8 +1,6 @@
-# 👋 Hey
+## Hey I'm Antonio lover of programming and books. 
 
-### I'm Antonio Lourenço.
-
-I love programming, new languages, and books. I usually speak Portuguese, Spanish, and sometimes English. When I have free time, I love to read books about suspense, fiction and other genres.
+I really enjoy challenges in my life and when I am reading or programming I do it because I need to use and explore my abilities, whether it is to imagine a senary or even to create possibilities, and all of these challenges my capacity to interpret.
 
 <div style="display:flex; flex-wrap:wrap;">
 
