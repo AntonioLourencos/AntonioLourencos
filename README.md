@@ -11,7 +11,7 @@ I really enjoy challenges in my life and when I am reading or programming I do i
 - JavaScript.
 - TypeScript.
 - Python.
-- CSharp (**Learning Process**).
+- Swift (**Learning Process**).
 
 </div>
 
@@ -21,6 +21,7 @@ I really enjoy challenges in my life and when I am reading or programming I do i
 
 - AdonisJS
 - ExpressJS
+- NestJS
 - ReactJS.
   - RemixJS.
   - NextJS.
